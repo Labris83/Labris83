@@ -20,7 +20,7 @@
 - Improve my coding skills and problem-solving abilities  
 - Explore AI, machine learning, and find new fields that i would love to work in
 - Build a portfolio of impactful projects  
-- Keep soul, spirit and body healthy
+- Keep soul, flesh and spirit healthy
 
 ---
 
