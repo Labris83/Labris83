@@ -27,7 +27,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages:** Java, Python  
-- **Tools & Tech:** GitHub, Eclipse, Pycharm, VSCode
+- **Tools & Tech:** Eclipse, Pycharm, VSCode, CodeBlocks
 
 ---
 
